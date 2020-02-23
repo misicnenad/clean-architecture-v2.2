@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\CleanArchitectureV22\CleanArchitecture.Domain\bin\Debug\netstandard2.0\CleanArchitecture.Domain.deps.json
+C:\Users\User\source\repos\CleanArchitectureV22\CleanArchitecture.Domain\bin\Debug\netstandard2.0\CleanArchitecture.Domain.dll
+C:\Users\User\source\repos\CleanArchitectureV22\CleanArchitecture.Domain\bin\Debug\netstandard2.0\CleanArchitecture.Domain.pdb
+C:\Users\User\source\repos\CleanArchitectureV22\CleanArchitecture.Domain\obj\Debug\netstandard2.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CleanArchitectureV22\CleanArchitecture.Domain\obj\Debug\netstandard2.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\CleanArchitectureV22\CleanArchitecture.Domain\obj\Debug\netstandard2.0\CleanArchitecture.Domain.dll
+C:\Users\User\source\repos\CleanArchitectureV22\CleanArchitecture.Domain\obj\Debug\netstandard2.0\CleanArchitecture.Domain.pdb
+C:\Users\User\source\repos\CleanArchitectureV22\CleanArchitecture.Domain\obj\Debug\netstandard2.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CleanArchitectureV22\CleanArchitecture.Domain\obj\Debug\netstandard2.0\CleanArchitecture.Domain.csprojAssemblyReference.cache
